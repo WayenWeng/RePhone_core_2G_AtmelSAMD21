@@ -16,8 +16,8 @@
           "category": "Arduino",
           "url": "https://github.com/WayenWeng/RePhone_core_2G_AtmelSAMD21/blob/master/RePhone_core_2G_AtmelSAMD21_v1.0.0.tar.bz2?raw=true",
           "archiveFileName": "RePhone_core_2G_AtmelSAMD21_v1.0.0.tar.bz2",
-          "checksum": "SHA-256:729a3dbf7e58722a4f6e0415182e132b89cf0d3b3631cafa4639caf998a18652",
-          "size": "1717590",
+          "checksum": "SHA-256:dcaa781e1c05f057a2a6a380277828f0ebc2447218415813e62e42222ea10489",
+          "size": "1717284",
           "boards": [
             {
               "name": "Seeeduino Zero"
