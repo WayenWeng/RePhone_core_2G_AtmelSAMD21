@@ -1,0 +1,54 @@
+{
+  "packages": [
+    {
+      "name": "RePhone core 2G-AtmelSAMD21",
+      "maintainer": "Seeed Studio",
+      "websiteURL": "http://www.seeedstudio.com/",
+      "email": "",
+      "help": {
+        "online": "http://www.seeedstudio.com/wiki/Main_Page"
+      },
+      "platforms": [
+        {
+          "name": "RePhone core 2G-AtmelSAMD21",
+          "architecture": "samd",
+          "version": "1.0.0",
+          "category": "Arduino",
+          "url": "https://github.com/WayenWeng/RePhone_core_2G_AtmelSAMD21/",
+          "archiveFileName": "RePhone_core_2G_AtmelSAMD21_v1.0.0.tar.bz2",
+          "checksum": "SHA-256:729a3dbf7e58722a4f6e0415182e132b89cf0d3b3631cafa4639caf998a18652",
+          "size": "1717590",
+          "boards": [
+            {
+              "name": "Seeeduino Zero"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "4.8.3-2014q1"
+            },
+            {
+              "packager": "arduino",
+              "name": "bossac",
+              "version": "1.6.1-arduino"
+            },
+            {
+              "packager": "arduino",
+              "name": "openocd",
+              "version": "0.9.0-arduino"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS",
+              "version": "4.0.0-atmel"
+            }
+          ]
+        }
+      ],
+      "tools": [
+      ]
+    }
+  ]
+}
