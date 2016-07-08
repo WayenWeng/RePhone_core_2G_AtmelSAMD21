@@ -14,7 +14,7 @@
           "architecture": "samd",
           "version": "1.0.0",
           "category": "Arduino",
-          "url": "https://github.com/WayenWeng/RePhone_core_2G_AtmelSAMD21/blob/master/RePhone_core_2G_AtmelSAMD21_v1.0.0.tar.bz2?raw=true",
+          "url": "https://raw.githubusercontent.com/WayenWeng/RePhone_core_2G_AtmelSAMD21/master/RePhone_core_2G_AtmelSAMD21_v1.0.0.tar.bz2",
           "archiveFileName": "RePhone_core_2G_AtmelSAMD21_v1.0.0.tar.bz2",
           "checksum": "SHA-256:45d5693488b3329918a5d6bb225c1e1b4582d312fcaf8cc192ff7555e09d76f2",
           "size": "1717818",
