@@ -20,7 +20,7 @@
           "size": "1717818",
           "boards": [
             {
-              "name": "Seeeduino Zero"
+              "name": "RePhone core 2G-AtmelSAMD21"
             }
           ],
           "toolsDependencies": [
