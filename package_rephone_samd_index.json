@@ -82,6 +82,43 @@
               "version": "4.0.0-atmel"
             }
           ]
+        },
+        {
+          "name": "RePhone core 2G-AtmelSAMD21",
+          "architecture": "samd",
+          "version": "1.0.2",
+          "category": "Arduino",
+          "url": "https://raw.githubusercontent.com/WayenWeng/RePhone_core_2G_AtmelSAMD21/master/RePhone_core_2G_AtmelSAMD21_v1.0.2.tar.bz2",
+          "archiveFileName": "RePhone_core_2G_AtmelSAMD21_v1.0.2.tar.bz2",
+          "checksum": "SHA-256:e0b5f327a75111c54bb9bc39f571d9517f055c12ca0acb9a993c15887da7d9f5",
+          "size": "1891278",
+          "boards": [
+            {
+              "name": "RePhone core 2G-AtmelSAMD21"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "4.8.3-2014q1"
+            },
+            {
+              "packager": "arduino",
+              "name": "bossac",
+              "version": "1.6.1-arduino"
+            },
+            {
+              "packager": "arduino",
+              "name": "openocd",
+              "version": "0.9.0-arduino"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS",
+              "version": "4.0.0-atmel"
+            }
+          ]
         }
       ],
       "tools": [
